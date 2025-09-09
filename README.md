@@ -10,7 +10,7 @@ Executed SQL queries on pizza sales data and connected results to Power BI, buil
 -<a href = "https://github.com/Tusharnjaiswal/SQL_and_powerBI_analysis_and_dashboard_creation_on_pizza-sales/blob/main/pizza_sales.csv">dataset</a>
 
 ## Queries performed
--<a href = "https://github.com/Tusharnjaiswal/SQL_and_powerBI_analysis_and_dashboard_creation_on_pizza-sales/blob/main/KPIs.sql">KPIs<a/>
--<a href = "https://github.com/Tusharnjaiswal/SQL_and_powerBI_analysis_and_dashboard_creation_on_pizza-sales/blob/main/chart%20requirements.sql">chart requirements<a/>
+- -<a href = "https://github.com/Tusharnjaiswal/SQL_and_powerBI_analysis_and_dashboard_creation_on_pizza-sales/blob/main/KPIs.sql">KPIs<a/>
+- -<a href = "https://github.com/Tusharnjaiswal/SQL_and_powerBI_analysis_and_dashboard_creation_on_pizza-sales/blob/main/chart%20requirements.sql">chart requirements<a/>
 
 # Dashboard 1
